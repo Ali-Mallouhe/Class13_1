@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HCCM.Domain", "HCCM.Domain\HCCM.Domain.csproj", "{B4B25F90-02A5-420D-B41A-3B7C1ED3FCF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HCCM.DataBase", "HCCM.DataBase\HCCM.DataBase.csproj", "{B5A22AE8-9BA8-4748-8098-58440B43A840}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4B25F90-02A5-420D-B41A-3B7C1ED3FCF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4B25F90-02A5-420D-B41A-3B7C1ED3FCF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4B25F90-02A5-420D-B41A-3B7C1ED3FCF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4B25F90-02A5-420D-B41A-3B7C1ED3FCF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5A22AE8-9BA8-4748-8098-58440B43A840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5A22AE8-9BA8-4748-8098-58440B43A840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5A22AE8-9BA8-4748-8098-58440B43A840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5A22AE8-9BA8-4748-8098-58440B43A840}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37B3FBE6-31E4-4871-9058-77294F3DE7F8}
+	EndGlobalSection
+EndGlobal

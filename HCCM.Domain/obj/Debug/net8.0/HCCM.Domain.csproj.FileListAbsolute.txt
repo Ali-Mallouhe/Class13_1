@@ -1,0 +1,11 @@
+C:\Users\alima\source\repos\HCCM\HCCM.Domain\bin\Debug\net8.0\HCCM.Domain.deps.json
+C:\Users\alima\source\repos\HCCM\HCCM.Domain\bin\Debug\net8.0\HCCM.Domain.dll
+C:\Users\alima\source\repos\HCCM\HCCM.Domain\bin\Debug\net8.0\HCCM.Domain.pdb
+C:\Users\alima\source\repos\HCCM\HCCM.Domain\obj\Debug\net8.0\HCCM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alima\source\repos\HCCM\HCCM.Domain\obj\Debug\net8.0\HCCM.Domain.AssemblyInfoInputs.cache
+C:\Users\alima\source\repos\HCCM\HCCM.Domain\obj\Debug\net8.0\HCCM.Domain.AssemblyInfo.cs
+C:\Users\alima\source\repos\HCCM\HCCM.Domain\obj\Debug\net8.0\HCCM.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alima\source\repos\HCCM\HCCM.Domain\obj\Debug\net8.0\HCCM.Domain.dll
+C:\Users\alima\source\repos\HCCM\HCCM.Domain\obj\Debug\net8.0\refint\HCCM.Domain.dll
+C:\Users\alima\source\repos\HCCM\HCCM.Domain\obj\Debug\net8.0\HCCM.Domain.pdb
+C:\Users\alima\source\repos\HCCM\HCCM.Domain\obj\Debug\net8.0\ref\HCCM.Domain.dll
